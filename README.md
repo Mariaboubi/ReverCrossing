@@ -16,7 +16,7 @@ The goal is to transfer all people to the opposite riverbank without breaking th
 **Watch the video explaining the problem here:** 
 👉 [River Crossing Problem Explanation](https://www.youtube.com/watch?v=5n6xmaS1D2A)  
 
-   For a more detailed description of the project and its implementation, check the `project1_description.md` included in the repository.
+   For a more detailed description of the project and its implementation, check the [project1_description.md](project1_description.md) included in the repository.
 ---
 
 ## Technologies
