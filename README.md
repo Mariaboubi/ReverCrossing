@@ -30,6 +30,8 @@ The goal is to transfer all people to the opposite riverbank without breaking th
    ```bash
    git clone https://github.com/Mariaboubi/ReverCrossing.git
 2. Navigate to the src folder (cd src) and run:
-    python main.py 30 5 1 3 6 8 12 
+      ```bash
+    python main.py 30 5 1 3 6 8 12
+   ```
     (The first parameter is the total available time and theremaining ones represent the individual crossing times of each person.)
 
